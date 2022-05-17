@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "220521101508",
+    "project_id": "final-jam-620a6",
+    "storage_bucket": "final-jam-620a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220521101508:android:640496d282a8e428917191",
+        "android_client_info": {
+          "package_name": "com.example.jam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220521101508-r28i29mub4rudlkpbqq4vt2rcldb6mbf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKhVoqEeWkM-HNEhNu_zFUww0v63rnZQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220521101508-r28i29mub4rudlkpbqq4vt2rcldb6mbf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
